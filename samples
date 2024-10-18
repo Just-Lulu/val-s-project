@@ -1,0 +1,18 @@
+ <li><a href="#!"><img src="images/images.jpg 5.png" alt="search image"></a>
+    <ul class="navbar-dropdown">
+        <li><a href="#!">Title</a></li>
+<li><a href="#!">People</a></li>
+<li><a href="#!">Genre</a></li>
+</ul></li>
+<li><a href="#!">Kids</a></li>
+        <li><a href="#!"><img src="images/image.jpg2.png" alt="notify image"></a></li>
+        
+        <li><a href="#!"><img src="./images/cardbox.png" alt="main image">
+        </a>
+    <ul class="navbar-dropdown">
+         <li><a href="#!">Manage profile</a></li>
+         <li><a href="#!">Transfer profile</a></li>
+         <li><a href="#!">Account</a></li>
+         <li><a href="#!">Help Center</a></li>
+    </ul></li>
+        </ul>
